@@ -1,0 +1,90 @@
+.service-wrapper {
+    background-color: #e6f7ff;
+    padding: 32px;
+    border-radius: 8px;
+  }
+  
+  .service-tabs {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    border: none;
+    background-color: #f0f0f0;
+    color: #333;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .tab.active {
+    background-color: #ffffff;
+    color: #1890ff;
+    border: 2px solid #1890ff;
+  }
+  
+  .service-card {
+    background-color: #ffffff;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  }
+  
+  .service-item {
+    padding: 16px 0;
+    border-bottom: 1px solid #ccc;
+    font-size: 16px;
+    color: #222;
+  }
+  
+  .pagination {
+    text-align: center;
+    margin-top: 16px;
+    font-size: 16px;
+  }
+
+  .faq-item {
+    cursor: pointer;
+    padding: 16px 0;
+  }
+  
+  .faq-question {
+    display: flex;
+    align-items: center;
+  }
+  
+  .faq-icon {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background-color: #e6fff0;
+    color: #1890ff;
+    font-weight: bold;
+    text-align: center;
+    line-height: 32px;
+    margin-right: 12px;
+    font-size: 16px;
+  }
+  
+  .faq-text {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  .faq-answer {
+    margin-left: 44px;
+    margin-top: 8px;
+    color: #666;
+    font-size: 15px;
+    line-height: 1.5;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid #ddd;
+    margin-top: 16px;
+  }
+  

@@ -1,0 +1,100 @@
+.carbon-check-wrapper {
+    background-color: #e6f7ff;
+    padding: 32px;
+    border-radius: 8px;
+  }
+  
+  .carbon-check-tabs {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    border: none;
+    background-color: #f0f0f0;
+    color: #333;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .tab.active {
+    background-color: #ffffff;
+    color: #1890ff;
+    border: 2px solid #1890ff;
+  }
+  
+  .step-flow {
+    padding: 24px 16px;
+  }
+  
+  .step-block {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 24px;
+  }
+  
+  .step-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 24px;
+  }
+  
+  .step-badge {
+    background-color: #8ca9cc;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 10px;
+    font-weight: bold;
+  }
+  
+  .step-arrow {
+    font-size: 24px;
+    margin: 12px 0;
+    color: #8ca9cc;
+  }
+  
+  .step-right h3 {
+    margin: 0;
+    font-size: 20px;
+    color: #3c6e71;
+  }
+  
+  .step-right p {
+    margin: 4px 0 0;
+    color: #444;
+  }  
+
+.guide-section {
+    display: flex;
+    gap: 24px;
+    padding: 24px;
+    flex-wrap: wrap;
+  }
+  
+  .guide-text {
+    background-color: #f5f5f5;
+    padding: 16px 24px;
+    border-radius: 12px;
+    flex: 1;
+    min-width: 300px;
+    font-size: 30px;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  .guide-image {
+    flex: 1;
+    min-width: 300px;
+    text-align: center;
+  }
+  
+  .guide-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  

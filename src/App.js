@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+// src/App.js
+import React from 'react';
+import { Routes, Route, Navigate } from 'react-router-dom';
+import AppLayout from './components/AppLayout';
+import Home from './pages/home';
+import CalculatorPage from './pages/CalculatorPage';
+import Login from './pages/Login';
+import Register from './pages/Register';
+import News from './pages/News';
+import CarbonCheck from './pages/CarbonCheck';
+import ServiceInfo from './pages/ServiceInfo';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AppLayout>
+      <Routes>
+        <Route path="/" element={<Navigate to="/home" />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/news" element={<News />} />
+        <Route path="/carbon-check" element={<CarbonCheck />} />
+        <Route path="/services" element={<ServiceInfo />} />
+        <Route path="/calculator" element={<CalculatorPage />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
+      </Routes>
+    </AppLayout>
   );
 }
-
-export default App;

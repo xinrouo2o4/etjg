@@ -1,0 +1,45 @@
+.news-wrapper {
+    background-color: #e6f7ff;
+    padding: 32px;
+    border-radius: 8px;
+  }
+  
+  .tabs {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  
+  .tab {
+    padding: 10px 20px;
+    border: none;
+    background-color: #f0f0f0;
+    color: #333;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .tab.active {
+    background-color: #ffffff;
+    color: #1890ff;
+    border: 2px solid #1890ff;
+  }
+  
+  .news-card {
+    background-color: #fff;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  
+  .news-item {
+    display: flex;
+    padding: 16px 0;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .news-date {
+    width: 160px;
+    font-weight: bold;
+  }
