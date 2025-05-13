@@ -1,0 +1,594 @@
+{
+  "原油": {
+    "factors": {
+      "CO2": {
+        "factor": 73.3,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "奧里油": {
+    "factors": {
+      "CO2": {
+        "factor": 77.0,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "液化天然氣": {
+    "factors": {
+      "CO2": {
+        "factor": 64.2,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "汽油": {
+    "factors": {
+      "CO2": {
+        "factor": 69.3,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "航空燃油-煤油型": {
+    "factors": {
+      "CO2": {
+        "factor": 71.5,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "其他煤油": {
+    "factors": {
+      "CO2": {
+        "factor": 71.9,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "頁岩油": {
+    "factors": {
+      "CO2": {
+        "factor": 73.3,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "柴油": {
+    "factors": {
+      "CO2": {
+        "factor": 74.1,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "燃料油": {
+    "factors": {
+      "CO2": {
+        "factor": 77.4,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "液化石油氣": {
+    "factors": {
+      "CO2": {
+        "factor": 63.1,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0001,
+        "gwp": 298
+      }
+    }
+  },
+  "乙烷": {
+    "factors": {
+      "CO2": {
+        "factor": 61.6,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0001,
+        "gwp": 298
+      }
+    }
+  },
+  "石油腦": {
+    "factors": {
+      "CO2": {
+        "factor": 73.3,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "瀝青": {
+    "factors": {
+      "CO2": {
+        "factor": 80.7,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "潤滑油": {
+    "factors": {
+      "CO2": {
+        "factor": 73.3,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "石油焦": {
+    "factors": {
+      "CO2": {
+        "factor": 97.5,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "煉油廠進料": {
+    "factors": {
+      "CO2": {
+        "factor": 73.3,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "其他油品": {
+    "factors": {
+      "CO2": {
+        "factor": 57.6,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0001,
+        "gwp": 298
+      }
+    }
+  },
+  "無煙煤": {
+    "factors": {
+      "CO2": {
+        "factor": 98.3,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "煉焦煤": {
+    "factors": {
+      "CO2": {
+        "factor": 94.6,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "其他煙煤": {
+    "factors": {
+      "CO2": {
+        "factor": 94.6,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "亞煙煤": {
+    "factors": {
+      "CO2": {
+        "factor": 96.1,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "褐煤": {
+    "factors": {
+      "CO2": {
+        "factor": 101.0,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "油頁岩/焦油砂": {
+    "factors": {
+      "CO2": {
+        "factor": 107.0,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "褐煤塊": {
+    "factors": {
+      "CO2": {
+        "factor": 97.5,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "煤球": {
+    "factors": {
+      "CO2": {
+        "factor": 97.5,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "焦炭": {
+    "factors": {
+      "CO2": {
+        "factor": 107.0,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "煤焦油": {
+    "factors": {
+      "CO2": {
+        "factor": 80.7,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "衍生氣體": {
+    "factors": {
+      "CO2": {
+        "factor": 44.4,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0001,
+        "gwp": 298
+      }
+    }
+  },
+  "天然氣": {
+    "factors": {
+      "CO2": {
+        "factor": 56.1,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0001,
+        "gwp": 298
+      }
+    }
+  },
+  "都市廢棄物 - 非生質部分": {
+    "factors": {
+      "CO2": {
+        "factor": 91.7,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.03,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.004,
+        "gwp": 298
+      }
+    }
+  },
+  "事業廢棄物": {
+    "factors": {
+      "CO2": {
+        "factor": 143.0,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.03,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.004,
+        "gwp": 298
+      }
+    }
+  },
+  "廢油": {
+    "factors": {
+      "CO2": {
+        "factor": 73.3,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.03,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.004,
+        "gwp": 298
+      }
+    }
+  },
+  "泥煤": {
+    "factors": {
+      "CO2": {
+        "factor": 106.0,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0015,
+        "gwp": 298
+      }
+    }
+  },
+  "固體生質燃料": {
+    "factors": {
+      "CO2": {
+        "factor": 112.0,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.03,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.004,
+        "gwp": 298
+      }
+    }
+  },
+  "液體生質燃料": {
+    "factors": {
+      "CO2": {
+        "factor": 70.8,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.003,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0006,
+        "gwp": 298
+      }
+    }
+  },
+  "氣體生質燃料": {
+    "factors": {
+      "CO2": {
+        "factor": 54.6,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.001,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.0001,
+        "gwp": 298
+      }
+    }
+  },
+  "其他非石化燃料": {
+    "factors": {
+      "CO2": {
+        "factor": 100.0,
+        "gwp": 1
+      },
+      "CH4": {
+        "factor": 0.03,
+        "gwp": 25
+      },
+      "N2O": {
+        "factor": 0.004,
+        "gwp": 298
+      }
+    }
+  }
+}

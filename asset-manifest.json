@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xinrouo2o4/etjg.git/static/css/main.e435c718.css",
+    "main.js": "/xinrouo2o4/etjg.git/static/js/main.1158ea63.js",
+    "static/media/ghg-flowchart.png": "/xinrouo2o4/etjg.git/static/media/ghg-flowchart.5e9a07213358e3e72293.png",
+    "static/media/earth.png": "/xinrouo2o4/etjg.git/static/media/earth.dd20d29d49fdca828e3d.png",
+    "index.html": "/xinrouo2o4/etjg.git/index.html",
+    "main.e435c718.css.map": "/xinrouo2o4/etjg.git/static/css/main.e435c718.css.map",
+    "main.1158ea63.js.map": "/xinrouo2o4/etjg.git/static/js/main.1158ea63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e435c718.css",
+    "static/js/main.1158ea63.js"
+  ]
+}
